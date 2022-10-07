@@ -1,3 +1,7 @@
 Developer changes
+<<<<<<< HEAD
 Main changes 
 Main changes
+=======
+Developer changes 2 
+>>>>>>> Developer
